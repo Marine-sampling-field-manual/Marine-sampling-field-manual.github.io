@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: /
-title: "Benthic stereo BRUVs"
+title: "Field manuals for marine sampling to monitor Australian waters"
 excerpt: "(Baited Remote Underwater Videos)"
 image:
   feature: /banners/00_banner1.jpg
@@ -10,14 +10,18 @@ page.button1.external_url:
   caption: NESP
 ---
 
-Tim Langlois<sup>1</sup>, Joel Williams<sup>2</sup>, Jacquomo Monk<sup>3</sup>, Phil Bouchet, Leanne Currey, Jordan Goetze, David Harasti, Charlie Huveneers, Daniel Ierodiaconou, Hamish Malcolm, Sasha Whitmarsh
+The NESP Marine Biodiversity Hub has developed a suite of field manuals to describe a nationally consistent and defensible approach to marine data acquisition. With over 70 contributors from 30 agencies, the field manuals include information on marine survey design, pre-survey planning, gear deployment and retrieval, and data management.
 
-<sup>1</sup>tim.langlois@uwa.edu.au, <sup>2</sup>joel.williams@dpi.nsw.gov.au, <sup>3</sup>jacquomo.monk@utas.edu.au
+For more information about the field manuals and their benefits, see this news story: [Marine sampling field manuals support biodiversity monitoring at a national scale](https://www.nespmarine.edu.au/news/marine-sampling-field-manuals-support-biodiversity-monitoring-national-scale).
 
-![image alt text](/images/figures/image_5.0.png)
+## Feedback and online questionnaire
+We encourage all users (or potential users) to give <b>feedback</b> and suggestions for future versions and manuals via our online questionnaire [here](https://www.surveymonkey.com/r/NZRLMHB). <b> Deadline - 10 December 2018</b>.
 
-Chapter citation:
-Langlois T, Williams J, Monk J, Bouchet P, Currey L, Goetze J, Harasti D, Huveneers C, Ierodiaconou D, Malcolm H, Whitmarsh S. 2018. Marine sampling field manual for benthic stereo BRUVS (Baited Remote Underwater Videos). In Field Manuals for Marine Sampling to Monitor Australian Waters, Przeslawski R, Foster S (Eds). National Environmental Science Programme (NESP). pp. 82-104. 
+
+Contact
+[Rachel Przeslawski](https://www.nespmarine.edu.au/contact/przeslawski-rachel)
+
+ 
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSezHvqOCPEp8f0xopHJ4nmoN6bhrdPzbKmInLuTQR7UNrTLRQ/viewform?usp=sf_link" class="btn">Sign up to mailing list</a>
 
