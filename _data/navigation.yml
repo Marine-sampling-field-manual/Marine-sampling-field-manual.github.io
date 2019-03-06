@@ -1,40 +1,42 @@
 # Site navigation links
 
-- title: "Platform description"
-  url: /platform-description
-  excerpt: "Comparison to other sampling methods, advantages, limitations and defintions"
+- title: "1. Introduction"
+  url: /
+  excerpt: ""
   image: /5x8/00_5x8.jpg
-- title: "Scope"
+- title: "2. Survey Design"
   url: /scope
-  excerpt: "Scope for the benthic stereo-BRUVs field manual"
+  excerpt: ""
   image: /5x8/01_5x8.jpg
-- title: "Stereo-BRUVs in marine monitoring"
-  url: /stereo-bruvs-in-marine-monitoring
-  excerpt: "Uses and history of stereo-BRUVs"
+- title: "3. Multibeam Echosounder (MBES)"
+  url: /
+  excerpt: ""
   image: /5x8/02_5x8.jpg
-- title: "Equipment"
-  url: /equipment
-  excerpt: "Equipment"
+- title: "4. Autonomous Underwater Vehicles (AUV)"
+  url: /
+  excerpt: ""
   image: /5x8/03_5x8.jpg
-- title: "Pre-survey planning"
-  url: /pre-survey-planning
-  excerpt: "Calibrating and pre-survey checklist"
+- title: "5. Benthic Baited Remote Underwater Video (BRUV)"
+  url: "https://benthic-bruvs-field-manual.github.io/"
+  excerpt: ""
   image: /5x8/04_5x8.jpg
-- title: "Field procedures"
-  url: /field-procedures
-  excerpt: "Arrival on site, deployment, retrieval, retrieval of snagged or lost BRUV and fieldwork data management"
+- title: "6. Pelagic Baited Remote Underwater Video (BRUV)"
+  url: /
+  excerpt: ""
   image: /5x8/05_5x8.jpg
-- title: "Post-survey procedures"
-  url: /post-survey-procedures
-  excerpt: "Data management, processing video footage, quality control, data curation and data release"
+- title: "7. Towed Imagery"
+  url: /
+  excerpt: ""
   image: /5x8/06_5x8.jpg
-- title: "Field manual maintenance"
-  url: /field-manual-maintenance
-  excerpt: "Version control and an example metadata table"
+- title: "8. Sleds & Trawls"
+  url: /
+  excerpt: ""
   image: /5x8/07_5x8.jpg
-- title: "References"
-  url: /references
-  excerpt: "Literature cited"
+- title: "9. Grabs & Boxcorers"
+  url: /
+  excerpt: ""
   image: /5x8/08_5x8.jpg
-
-
+- title: "Collaborators, Permitting, Post-Survey Report Templates"
+  url: /
+  excerpt: ""
+  image: /5x8/08_5x8.jpg
