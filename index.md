@@ -30,14 +30,22 @@ The field manuals can be downloaded in their entirety or as individual chapters 
 <a href="https://www.nespmarine.edu.au/sites/default/files/_PUBLIC_/FieldManuals_NESPMarineHub_Chapter1_Intro_v1.pdf" class="btn">Chapter 1 </a>– Introduction
 
 <a href="https://www.nespmarine.edu.au/sites/default/files/_PUBLIC_/FieldManuals_NESPMarineHub_Chapter2_Design_v1.pdf" class="btn">Chapter 2 </a>– Survey Design
+
 <a href="https://www.nespmarine.edu.au/sites/default/files/_PUBLIC_/FieldManuals_NESPMarineHub_Chapter3_MBES_v1.pdf" class="btn">Chapter 3 </a>– Multibeam Echosounder (MBES)
+
 <a href="https://www.nespmarine.edu.au/sites/default/files/FieldManuals_NESPMarineHub_Chapter4_AUV_v1.pdf" class="btn">Chapter 4 </a>– Autonomous Underwater Vehicles (AUV)
+
 <a href="https://benthic-bruvs-field-manual.github.io/" class="btn">Chapter 5 </a>– Benthic Baited Remote Underwater Video (BRUV)
 <a href="https://www.nespmarine.edu.au/sites/default/files/_PUBLIC_/FieldManuals_NESPMarineHub_Chapter6_PBRUV_v1.pdf" class="btn">Chapter 6 </a>– Pelagic Baited Remote Underwater Video (BRUV)
+
 <a href="https://www.nespmarine.edu.au/sites/default/files/FieldManuals_NESPMarineHub_Chapter7_TowedImagery_v1.pdf" class="btn">Chapter 7 </a>– Towed Imagery
+
 <a href="https://www.nespmarine.edu.au/sites/default/files/_PUBLIC_/FieldManuals_NESPMarineHub_Chapter8_Sled_v1.pdf" class="btn">Chapter 8 </a>– Sleds & Trawls
+
 <a href="https://www.nespmarine.edu.au/sites/default/files/_PUBLIC_/FieldManuals_NESPMarineHub_Chapter9_Grab_v1.pdf" class="btn">Chapter 9 </a>– Grabs & Boxcorers
+
 <a href="https://www.nespmarine.edu.au/sites/default/files/_PUBLIC_/FieldManuals_NESPMarineHub_Appendices_v1.pdf" class="btn">Appendices </a>– Collaborators, Permitting, Post-Survey Report Templates
+
 
 ## Contact
 
