@@ -3,6 +3,7 @@ layout: article
 title: "2. Survey Design"
 categories: chapter
 tags: [chapter]
+link: "https://survey-design-field-manual.github.io/"
 excerpt: ""
 image:
   feature: 
