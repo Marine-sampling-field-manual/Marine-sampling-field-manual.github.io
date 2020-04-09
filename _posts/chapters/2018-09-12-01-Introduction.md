@@ -6,6 +6,6 @@ tags: [chapter]
 excerpt: ""
 image:
   feature: 
-  teaser: square-elusive.png
-  thumb: square-elusive.png
+  teaser: 5x8/00_5x8.jpg
+  thumb: 5x8/00_5x8.jpg
 ---
