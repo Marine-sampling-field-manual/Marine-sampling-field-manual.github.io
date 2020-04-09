@@ -17,7 +17,7 @@ For more information about the field manuals and their benefits, see this news s
 <h2 class="post-title"> </h2>
 <div class="tiles">
 {% for post in site.categories.chapter %}
-	{% include post-grid.html %}
+	{% include chapter-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->
 
