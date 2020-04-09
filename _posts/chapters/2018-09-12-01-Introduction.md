@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "01 Introduction"
+title: "1. Introduction"
 categories: chapter
 tags: [chapter]
 excerpt: ""
