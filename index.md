@@ -14,6 +14,13 @@ The NESP Marine Biodiversity Hub has developed a suite of field manuals to descr
 
 For more information about the field manuals and their benefits, see this news story: [Marine sampling field manuals support biodiversity monitoring at a national scale](https://www.nespmarine.edu.au/news/marine-sampling-field-manuals-support-biodiversity-monitoring-national-scale).
 
+<h2 class="post-title"> </h2>
+<div class="tiles">
+{% for post in site.categories.chapter %}
+	{% include post-grid.html %}
+{% endfor %}
+</div><!-- /.tiles -->
+
 ## Feedback and online questionnaire
 We encourage all users (or potential users) to give <b>feedback</b> and suggestions for future versions and manuals via our online questionnaire [here](https://www.surveymonkey.com/r/NZRLMHB). <b> Deadline - 10 December 2018</b>.
 
