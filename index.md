@@ -21,7 +21,7 @@ We encourage all users (or potential users) to give <b>feedback</b> and suggesti
 The field manuals can be downloaded in their entirety or as individual chapters by clicking on the links below.
 
 ### Full version
-<a href="https://www.nespmarine.edu.au/document/field-manuals-marine-sampling-monitor-australian-waters">Field manuals for marine sampling to monitor Australian Waters</a> - Download at Item field
+<a href="https://www.nespmarine.edu.au/document/field-manuals-marine-sampling-monitor-australian-waters">Field manuals for marine sampling to monitor Australian Waters</a> - Download full version
 
 ### Individual chapters
 
