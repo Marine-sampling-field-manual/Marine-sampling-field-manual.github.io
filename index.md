@@ -21,17 +21,7 @@ For more information about the field manuals and their benefits, see this news s
 {% endfor %}
 </div><!-- /.tiles -->
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br />
-<br />
-<br />
-<br />
-
+<br><br><br><br><br><br><br><br><br><br><br><br>
 
 
 
