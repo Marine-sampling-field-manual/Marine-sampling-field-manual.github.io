@@ -27,11 +27,7 @@ For more information about the field manuals and their benefits, see this news s
 
 
 ## Downloads
-The field manuals can be downloaded in their entirety or as individual chapters by clicking on the links above.
-
-<a href="https://www.nespmarine.edu.au/document/field-manuals-marine-sampling-monitor-australian-waters">Download Full version</a>
-
-<a href="https://www.nespmarine.edu.au/sites/default/files/_PUBLIC_/FieldManuals_NESPMarineHub_Appendices_v1.pdf">Appendices </a>– Collaborators, Permitting, Post-Survey Report Templates
+The field manuals can be downloaded as individual chapters by clicking on the links above or in their entirety below.
 
 <h2 class="post-title"> </h2>
 <div class="tiles">
@@ -40,7 +36,7 @@ The field manuals can be downloaded in their entirety or as individual chapters 
 {% endfor %}
 </div><!-- /.tiles -->
 
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 
 ## Contact
 
