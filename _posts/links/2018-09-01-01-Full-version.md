@@ -3,7 +3,7 @@ layout: article
 title: ""
 categories: link
 tags: [link]
-link: "https://marine-sampling-field-manual.github.io/files/"
+link: "https://www.nespmarine.edu.au/system/files/Field%20Manuals%20NESPMarineHub_v1.pdf"
 excerpt: ""
 image:
   feature: 
