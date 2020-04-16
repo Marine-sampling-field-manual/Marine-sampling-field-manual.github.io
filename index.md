@@ -33,6 +33,14 @@ The field manuals can be downloaded in their entirety or as individual chapters 
 
 <a href="https://www.nespmarine.edu.au/sites/default/files/_PUBLIC_/FieldManuals_NESPMarineHub_Appendices_v1.pdf">Appendices </a>– Collaborators, Permitting, Post-Survey Report Templates
 
+<h2 class="post-title"> </h2>
+<div class="tiles">
+{% for post in site.categories.link %}
+	{% include chapter-grid.html %}
+{% endfor %}
+</div><!-- /.tiles -->
+
+<br><br><br><br><br><br>
 
 ## Contact
 
