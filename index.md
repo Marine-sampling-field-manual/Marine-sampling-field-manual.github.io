@@ -45,3 +45,4 @@ The field manuals can be downloaded as individual chapters by clicking on the li
  
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSezHvqOCPEp8f0xopHJ4nmoN6bhrdPzbKmInLuTQR7UNrTLRQ/viewform?usp=sf_link" class="btn">Sign up to mailing list</a>
 
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScxtR0d4hvnZJn1uiIl4sZP44MwVVaPypPGMZSekSjPa02Qxw/viewform?embedded=true" width="640" height="789" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
