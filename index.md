@@ -10,9 +10,11 @@ page.button1.external_url:
   caption: NESP
 ---
 
-The NESP Marine Biodiversity Hub has developed a suite of field manuals to describe a nationally consistent and defensible approach to marine data acquisition. With over 70 contributors from 30 agencies, the field manuals include information on marine survey design, pre-survey planning, gear deployment and retrieval, and data management.
+The Marine Biodiversity Hub has developed a suite of field manuals to ensure that data collected by seafloor-sampling platforms at different times and places across Australia are directly comparable.
 
-For more information about the field manuals and their benefits, see this news story: [Marine sampling field manuals support biodiversity monitoring at a national scale](https://www.nespmarine.edu.au/news/marine-sampling-field-manuals-support-biodiversity-monitoring-national-scale).
+The Marine Sampling Field Manuals for Monitoring Australia’s Marine Waters support the national-scale monitoring and observing of Australia’s marine environment. With more than 70 contributors from 30 agencies, the manuals include information on marine survey design, pre-survey planning, gear deployment and retrieval, and data management. They provide consistent, defensible methods for collecting data that can be compared with other regional and national collections and are endorsed by researchers, managers, and technicians from multiple agencies with a variety of experience and subject-matter expertise.
+
+For more information about the field manuals and their benefits, see this story: [Marine sampling field manuals support biodiversity monitoring at a national scale](https://www.nespmarine.edu.au/news/marine-sampling-field-manuals-support-biodiversity-monitoring-national-scale).
 
 <h2 class="post-title"> </h2>
 <div class="tiles">
@@ -42,7 +44,4 @@ The field manuals can be downloaded as individual chapters by clicking on the li
 
 [Rachel Przeslawski](https://www.nespmarine.edu.au/contact/przeslawski-rachel)
 
- 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSezHvqOCPEp8f0xopHJ4nmoN6bhrdPzbKmInLuTQR7UNrTLRQ/viewform?usp=sf_link" class="btn">Sign up to mailing list</a>
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScxtR0d4hvnZJn1uiIl4sZP44MwVVaPypPGMZSekSjPa02Qxw/viewform?embedded=true" width="640" height="789" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScxtR0d4hvnZJn1uiIl4sZP44MwVVaPypPGMZSekSjPa02Qxw/viewform?embedded=true" width="100%" height="789" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
