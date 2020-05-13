@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: /
-title: "Field manuals for marine sampling to monitor Australian waters"
+title: "Field Manuals for Marine Sampling to Monitor Australian Waters"
 excerpt: ""
 image:
   feature: /banners/00_banner.jpg
