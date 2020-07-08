@@ -28,7 +28,7 @@ For more information about the field manuals and their benefits, see this story:
 <br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br>
 
-## Downloads
+### Downloads
 The field manuals can be downloaded as individual chapters by clicking on the links above or in their entirety below.
 
 <h2 class="post-title"> </h2>
@@ -40,7 +40,7 @@ The field manuals can be downloaded as individual chapters by clicking on the li
 
 <br><br><br><br><br><br><br>
 
-## Contact
+### Contact
 
 [Rachel Przeslawski](https://www.nespmarine.edu.au/contact/przeslawski-rachel)
 
