@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 title: "Field Manuals for Marine Sampling to Monitor Australian Waters"
-excerpt: "Under Development"
+excerpt: "<br>"
 image:
   feature: /banners/00_banner.jpg
 page.button1.external_url:
