@@ -39,7 +39,6 @@ The field manuals can be downloaded as individual chapters by clicking on the li
 </div><!-- /.tiles -->
 
 <br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br>
 
 ### Contact
 
