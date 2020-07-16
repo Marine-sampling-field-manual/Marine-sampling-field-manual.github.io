@@ -34,7 +34,7 @@ The field manuals can be downloaded as individual chapters by clicking on the li
 <h2 class="post-title"> </h2>
 <div class="tiles">
 {% for post in site.categories.link %}
-	{% include chapter-grid.html %}
+	{% include link-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->
 
