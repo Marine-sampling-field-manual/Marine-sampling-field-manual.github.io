@@ -41,6 +41,16 @@ The field manuals can be downloaded as individual chapters by clicking on the li
 
 <br><br><br><br><br><br><br>
 
+### Related Guidelines and Best Practices
+<h2 class="post-title"> </h2>
+<div class="tiles">
+{% for post in site.categories.related %}
+	{% include related-grid.html %}
+{% endfor %}
+</div><!-- /.tiles -->
+
+<br><br><br><br><br><br><br>
+
 ### Contact
 
 [Rachel Przeslawski](https://www.nespmarine.edu.au/contact/przeslawski-rachel)
