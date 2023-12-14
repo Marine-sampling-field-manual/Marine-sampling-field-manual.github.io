@@ -7,6 +7,6 @@ link: "https://marine-sampling-field-manual.github.io/files/Appendix%20A_Permiss
 excerpt: ""
 image:
   feature: 
-  teaser: 5x8/permissions_5x8.jpg
+  teaser: 5x8/permissions_5x8.p
   thumb: 5x8/permissions_5x8.jpg
 ---
