@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "13. Microplastics (Check back here in early 2024 for this new SOP)"
+title: "13. Microplastics"
 categories: chapter
 tags: [chapter]
 link: "https://microplastics-field-manual.github.io/"
