@@ -26,7 +26,6 @@ For more information about the field manuals and their benefits, see this story:
 
 <br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br>
 
 ### Workflows
@@ -37,7 +36,7 @@ For more information about the field manuals and their benefits, see this story:
 {% endfor %}
 </div><!-- /.tiles -->
 
-<br><br><br>
+<br><br><br><br><br><br>
 
 ### Downloads
 The field manuals can be downloaded as individual chapters by clicking on the links above or in their entirety below.
