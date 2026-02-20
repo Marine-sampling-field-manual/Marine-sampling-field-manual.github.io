@@ -65,6 +65,6 @@ The field manuals can be downloaded as individual chapters by clicking on the li
 
 ### Contact
 
-[Rachel Przeslawski](mailto:rachel.przeslawski@rpsgroup.com.au)
+[Rachel Przeslawski](mailto:rachel.przeslawski@utas.edu.au)
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScxtR0d4hvnZJn1uiIl4sZP44MwVVaPypPGMZSekSjPa02Qxw/viewform?embedded=true" width="100%" height="789" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
